@@ -1,7 +1,8 @@
 # 🚀 Full Stack Cryptocurrency Trading Platform
 
 ## 📌 Overview
-Crypto TradeO is a secure, scalable, and feature-rich cryptocurrency trading platform designed to facilitate seamless buying, selling, and managing cryptocurrencies. Built using modern technologies, it provides users with a powerful interface for crypto transactions, portfolio tracking, and wallet management while ensuring security through authentication and API integrations.
+
+The Full Stack Cryptocurrency Trading Platform is a secure, scalable, and user-friendly trading system that allows users to buy, sell, and manage cryptocurrencies efficiently. It integrates real-time market data, portfolio tracking, and wallet functionalities with strong authentication and security measures. Built using Spring Boot (Backend) and React (Frontend), this platform is designed for developers and entrepreneurs looking to explore the crypto trading domain.
 
 ## 🎯 Features
 
