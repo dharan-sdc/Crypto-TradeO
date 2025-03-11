@@ -1,7 +1,7 @@
 # 🚀 Full Stack Cryptocurrency Trading Platform
 
 ## 📌 Overview
-Are you an aspiring developer looking to build your resume with cutting-edge skills? Or an entrepreneur ready to launch your own cryptocurrency trading platform? This Full Stack Trading Platform Source Code is your gateway to mastering modern tech and revolutionizing the crypto trading world.
+Crypto TradeO is a secure, scalable, and feature-rich cryptocurrency trading platform designed to facilitate seamless buying, selling, and managing cryptocurrencies. Built using modern technologies, it provides users with a powerful interface for crypto transactions, portfolio tracking, and wallet management while ensuring security through authentication and API integrations.
 
 ## 🎯 Features
 
